@@ -23,10 +23,12 @@ Print the characters and its huffmancode.
 
  
 ## Program:
+'''
 /*
 Developed by MEENA .S
 Register Number: 212221240028
 /*
+'''
 
 ``` Python
 # Get the input Stri# Get the input String
